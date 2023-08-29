@@ -1,13 +1,6 @@
 <br clear="both">
-
-<div align="center">
-  <img height="0" src=""  />
-</div>
-
 ###
-
 <h2 align="center">Hi I'm 👋 karim tarek<br>Frontend Developer || ME(R|V)N Stack</h2>
-
 ###
 
 <div align="center">
