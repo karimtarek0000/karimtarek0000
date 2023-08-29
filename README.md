@@ -9,9 +9,6 @@
   <a href="https://api.whatsapp.com/send?phone=01022659933" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
-  <a href="https://drive.google.com/file/d/146w2gSWvAq_QPTlGPD-KTlxjSa76hEt4/view?usp=sharing" target="_blank">
-    CV
-  </a>
 </div>
 
 ###
@@ -20,6 +17,9 @@
 
 ###
 
+<a href="https://drive.google.com/file/d/146w2gSWvAq_QPTlGPD-KTlxjSa76hEt4/view?usp=sharing" target="_blank">
+  CV
+</a>
 <p align="left">My name is karim tarek i'm frontend developer with two an half years experience, i worked in improving my skills to be more qualified with a passion for creating responsive and user-friendly web applications. With expertise in HTML, CSS, and JavaScript, working with front-end frameworks Vue and React. I am dedicated to staying up to date with the latest technologies and trends in the field, and I enjoy working collaboratively with other team members to solve problems and deliver high quality work.</p>
 
 ###
