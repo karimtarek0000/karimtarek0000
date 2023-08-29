@@ -1,5 +1,6 @@
 <br clear="both">
-<h2 align="center">Hi I'm 👋 karim tarek<br>Frontend Developer || ME(R|V)N Stack</h2>
+<h1 align="center">Hi I'm 👋 karim tarek</h2>
+<h4>Frontend Developer || ME(R|V)N Stack</h4>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/karim-tarek-abd-el-aziz" target="_blank">
