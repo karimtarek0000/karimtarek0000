@@ -9,6 +9,9 @@
   <a href="https://api.whatsapp.com/send?phone=01022659933" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
+  <a href="https://drive.google.com/file/d/146w2gSWvAq_QPTlGPD-KTlxjSa76hEt4/view?usp=sharing" target="_blank">
+    CV
+  </a>
 </div>
 
 ###
