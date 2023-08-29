@@ -1,6 +1,6 @@
 <br clear="both">
-<h1 align="center">Hi I'm 👋 karim tarek</h2>
-<h3 align="center">Frontend Developer || ME(R|V)N Stack</h4>
+<h1 align="center">Hi I'm 👋 karim tarek <br/><h3 align="center">Frontend Developer || ME(R|V)N Stack</h4></h2>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/karim-tarek-abd-el-aziz" target="_blank">
@@ -56,9 +56,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
