@@ -1,5 +1,15 @@
+<br clear="both">
+
 <div align="center">
+  <img height="0" src=""  />
+</div>
+
+###
+
 <h2 align="center">Hi I'm 👋 karim tarek<br>Frontend Developer || ME(R|V)N Stack</h2>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/karim-tarek-abd-el-aziz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -10,7 +20,9 @@
 </div>
 
 ###
+
 <h3 align="left">👩‍💻  About Me</h3>
+
 ###
 
 <p align="left">My name is karim tarek i'm frontend developer with two an half years experience, i worked in improving my skills to be more qualified with a passion for creating responsive and user-friendly web applications. With expertise in HTML, CSS, and JavaScript, working with front-end frameworks Vue and React. I am dedicated to staying up to date with the latest technologies and trends in the field, and I enjoy working collaboratively with other team members to solve problems and deliver high quality work.</p>
@@ -52,3 +64,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 </div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
