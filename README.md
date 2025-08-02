@@ -1,6 +1,6 @@
 <br clear="both">
 <h1 align="center">Hi I'm 👋 karim tarek</h2>
-<h3 align="center">Frontend Developer || ME(R|V)N Stack</h4>
+<h3 align="center">Frontend Engineer</h4>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/karim-tarek-abd-el-aziz" target="_blank">
@@ -20,7 +20,12 @@
 <a href="https://drive.google.com/file/d/1x6uYDQssXpTFXOgMInQfElMgTmQMhlS-/view?usp=sharing" target="_blank">
   View My CV
 </a>
-<p align="left">My name is karim tarek i'm frontend developer with two an half years experience, i worked in improving my skills to be more qualified with a passion for creating responsive and user-friendly web applications. With expertise in HTML, CSS, and JavaScript, working with front-end frameworks Vue and React. I am dedicated to staying up to date with the latest technologies and trends in the field, and I enjoy working collaboratively with other team members to solve problems and deliver high quality work.</p>
+<p align="left">Frontend Developer with 3 years of experience in building high-performance, responsive,
+and user-friendly web applications. Proficient in modern frontend technologies, including
+JavaScript, TypeScript, and component-based architectures. Skilled in optimizing web
+performance, integrating APIs, and ensuring clean, maintainable code. Continuously learning
+and staying up to date with the latest industry trends and best practices. A strong team
+player who thrives in solving complex problems and delivering scalable, eﬃcient solutions.</p>
 
 ###
 
