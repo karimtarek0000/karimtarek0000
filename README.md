@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Engineer</h4>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/karim-tarek-abd-el-aziz" target="_blank">
+  <a href="https://www.linkedin.com/in/karim-tarek-abdel-aziz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://api.whatsapp.com/send?phone=01022659933" target="_blank">
@@ -62,7 +62,6 @@ player who thrives in solving complex problems and delivering scalable, eﬃcien
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 </div>
 
 ###
