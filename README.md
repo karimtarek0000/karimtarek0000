@@ -20,7 +20,7 @@
 <a href="https://drive.google.com/file/d/1x6uYDQssXpTFXOgMInQfElMgTmQMhlS-/view?usp=sharing" target="_blank">
   View My CV
 </a>
-<p align="left">Front-End Engineer with 3 years of experience in developing and optimizing high-
+<p align="left">Front-End Engineer with around 4 years of experience in developing and optimizing high-
 performance, responsive web applications. Proficient in modern JavaScript frameworks
 (Vue, React) and TypeScript. Skilled in API integration, unit testing, CI/CD pipelines, and
 writing clean, maintainable code while fixing complex bugs. Continuously learning and
