@@ -63,8 +63,6 @@ I am passionate about clean architecture, performance optimization, and continuo
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
 </div>
 
 ###
