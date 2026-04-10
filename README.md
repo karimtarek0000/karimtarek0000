@@ -20,11 +20,15 @@
 <a href="https://drive.google.com/file/d/1x6uYDQssXpTFXOgMInQfElMgTmQMhlS-/view?usp=sharing" target="_blank">
   View My CV
 </a>
-<p align="left">Front-End Engineer with around 4 years of experience in developing and optimizing high-
-performance, responsive web applications. Proficient in modern JavaScript frameworks
-(Vue, React) and TypeScript. Skilled in API integration, unit testing, CI/CD pipelines, and
-writing clean, maintainable code while fixing complex bugs. Continuously learning and
-staying updated with best practices and emerging frontend technologies.</p>
+<p align="left">A visionary Front-End Developer with 4 years of experience building high-performance, scalable, and user-centric web applications across diverse industries. I specialize in transforming complex business requirements into clean, maintainable, and pixel-perfect interfaces that deliver seamless user experiences across devices and platforms.
+
+My expertise spans modern JavaScript ecosystems such as Vue.js, Nuxt.js, React, Next.js, and TypeScript, supported by strong foundations in JavaScript (ES6+), HTML5, CSS3, SASS, TailwindCSS, and Bootstrap. I manage the full feature lifecycle from requirement analysis and architecture planning to development, testing, deployment, and post-launch optimization to ensure every solution is robust, scalable, and performance-driven.
+
+Beyond UI development, I focus on writing modular, reusable code and maintaining high engineering standards. I have hands-on experience in API integration, performance optimization, CI/CD pipeline implementation, legacy code refactoring, and resolving critical production issues under tight deadlines. I actively contribute to improving development workflows through GitHub peer reviews, structured unit testing, and close cross-functional collaboration with product, backend, and design teams.
+
+I have independently managed core platforms, dashboards, and end-to-end frontend operations, consistently ensuring stability, scalability, and continuous enhancement. My approach combines technical precision with a deep understanding of user behavior, allowing me to deliver intuitive digital experiences that align with business objectives.
+
+I am passionate about clean architecture, performance optimization, and continuous learning always striving to build impactful products that balance innovation, usability, and long-term maintainability.</p>
 
 ###
 
