@@ -8,15 +8,13 @@
   <a href="https://karim-tarek.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?message=Website&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPGxpbmUgeDE9IjIiIHkxPSIxMiIgeDI9IjIyIiB5Mj0iMTIiLz48cGF0aCBkPSJNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiLz48L3N2Zz4%3D&label=&color=10B981&labelColor=&style=for-the-badge" height="25" alt="Website" /></a>
 </div>
 
-<br />
-
 <h3 align="left">👨‍💻 About Me</h3>
 
 Frontend Developer with 4+ years of experience, having worked at a product-based company in Saudi Arabia and at a software house, using **React.js, Next.js, Vue.js, Nuxt.js, TypeScript, and Node.js**.
 
 I also worked on a SaaS platform for managing real estate companies: [hectarplus.com](https://hectarplus.com) and [hectar.io](https://hectar.io).
 
-Experienced in implementing features end to end, from translating requirements into code all the way to deployment, including API integration, performance optimization, and CI/CD pipelines with GitHub Actions. Comfortable working with legacy codebases, fixing urgent bugs, and improving team workflow through code reviews and testing.
+Experienced in delivering features end to end, from requirements to deployment, including API integration, performance optimization, and CI/CD pipelines with GitHub Actions. Comfortable working with legacy codebases, fixing urgent bugs, and improving team workflow through code reviews and testing.
 
 Focused on shipping clean, maintainable code and pixel-perfect interfaces that deliver a great user experience.
 
