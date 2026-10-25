@@ -20,6 +20,9 @@
 <a href="https://drive.google.com/file/d/1x6uYDQssXpTFXOgMInQfElMgTmQMhlS-/view?usp=sharing" target="_blank">
   View My CV
 </a>
+<a href="https://karim-tarek.vercel.app" target="_blank">
+  My Website
+</a>
 <p align="left">Frontend Developer with 4+ years of experience having worked at a product-based company in Saudi Arabia
 and a software house using React.js, Next.js, Vue.js, Nuxt.js, TypeScript, Node.js Experienced across the full
 feature lifecycle from requirements to deployment including API integration, performance optimization, and
