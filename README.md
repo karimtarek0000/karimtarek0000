@@ -17,13 +17,15 @@
 
 ###
 
-<a href="https://drive.google.com/file/d/1x6uYDQssXpTFXOgMInQfElMgTmQMhlS-/view?usp=sharing" target="_blank">
-  View My CV
-</a>
+<div align="center">
+  <a href="https://drive.google.com/file/d/1x6uYDQssXpTFXOgMInQfElMgTmQMhlS-/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CV&logo=googledocs&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="CV logo"  />
+  </a>
+  <a href="https://karim-tarek.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+</div>
 
-<a href="https://karim-tarek.vercel.app" target="_blank">
-  My Website
-</a>
 <p align="left">Frontend Developer with 4+ years of experience having worked at a product-based company in Saudi Arabia
 and a software house using React.js, Next.js, Vue.js, Nuxt.js, TypeScript, Node.js Experienced across the full
 feature lifecycle from requirements to deployment including API integration, performance optimization, and
