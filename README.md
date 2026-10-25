@@ -19,10 +19,10 @@
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1x6uYDQssXpTFXOgMInQfElMgTmQMhlS-/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=CV&logo=googledocs&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="CV logo"  />
+    <img src="https://img.shields.io/static/v1?message=My CV&logo=googledocs&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="CV logo"  />
   </a>
   <a href="https://karim-tarek.vercel.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Website&logo=googlechrome&label=&color=10B981&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Website logo"  />
   </a>
 </div>
 
