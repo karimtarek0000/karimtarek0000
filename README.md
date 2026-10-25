@@ -14,6 +14,8 @@
 
 Frontend Developer with 4+ years of experience, having worked at a product-based company in Saudi Arabia and at a software house, using **React.js, Next.js, Vue.js, Nuxt.js, TypeScript, and Node.js**.
 
+I also worked on a SaaS platform for managing real estate companies: [hectarplus.com](https://hectarplus.com) and [hectar.io](https://hectar.io).
+
 Experienced across the full feature lifecycle, from requirements to deployment, including API integration, performance optimization, and CI/CD pipelines with GitHub Actions. Comfortable working with legacy codebases, fixing urgent bugs, and improving team workflow through code reviews and testing.
 
 Focused on shipping clean, maintainable code and pixel-perfect interfaces that deliver a great user experience.
